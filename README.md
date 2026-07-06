@@ -1,3 +1,4 @@
+HEAD
 # 🏦 Loan Approval RAG Chatbot
 
 A conversational AI assistant that helps users check their loan eligibility and answers general loan-related questions — combining a trained Machine Learning model with Retrieval-Augmented Generation (RAG).
@@ -170,3 +171,6 @@ This project was built for educational purposes as part of an internship program
 
 - Dataset: [architsharma01 - Loan Approval Prediction Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset) (Kaggle)
 - LLM: [Mistral AI](https://mistral.ai/)
+=======
+# loan-approval-rag-chatbot-v1
+>>>>>>> 06400a7eb43107e27e0048c7e42fa12ceb95d069
