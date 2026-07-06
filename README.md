@@ -1,4 +1,3 @@
-HEAD
 # 🏦 Loan Approval RAG Chatbot
 
 A conversational AI assistant that helps users check their loan eligibility and answers general loan-related questions — combining a trained Machine Learning model with Retrieval-Augmented Generation (RAG).
