@@ -1,0 +1,29 @@
+Q: What documents or information do I need to apply for a loan?
+A: You will need your number of dependents, education level, employment status (self-employed or not), annual income, requested loan amount, loan term in years, CIBIL score, and details of your assets (residential, commercial, luxury, and bank assets).
+
+Q: What is a CIBIL score and why does it matter?
+A: A CIBIL score is a 3-digit number (usually between 300-900) that reflects your credit history and repayment reliability. A higher CIBIL score significantly increases your chances of loan approval, since it shows lenders you have a good track record of repaying debts.
+
+Q: What is the minimum CIBIL score needed for approval?
+A: While there is no fixed universal minimum, applicants with a CIBIL score above 650-700 generally have a much higher chance of approval. Lower scores may lead to rejection or higher interest rates.
+
+Q: Does my income affect loan approval?
+A: Yes, annual income is one of the most important factors. Higher income relative to the requested loan amount improves your eligibility, as it shows you can repay the loan comfortably.
+
+Q: Does being self-employed affect my chances?
+A: Self-employed applicants may face slightly more scrutiny since income can be less predictable compared to salaried applicants, but strong income and asset values can offset this.
+
+Q: What are "assets" in the loan application, and why are they asked?
+A: Assets include residential, commercial, luxury, and bank assets you own. They act as a safety net for lenders — if you have higher total assets, it reduces the lender's risk, improving your approval chances.
+
+Q: What is loan term?
+A: Loan term is the number of years over which you plan to repay the loan. Shorter terms mean higher monthly payments but less total interest; longer terms mean smaller payments but more total interest.
+
+Q: Does education level matter for loan approval?
+A: Education level (Graduate vs Not Graduate) can be a minor factor, often correlated with income stability, but it is generally less impactful than income, CIBIL score, and assets.
+
+Q: What happens if my loan application is rejected?
+A: If rejected, we'll explain the main reasons (such as low CIBIL score or insufficient income relative to loan amount) and suggest practical steps to improve your eligibility for a future application.
+
+Q: How is the loan approval decision made?
+A: Our system uses a machine learning model trained on historical loan data. It considers all your provided details together — income, CIBIL score, assets, loan amount, and more — to estimate your likelihood of approval.
